@@ -1,0 +1,4 @@
+# LOGING-AND-REGISTRATION.
+This is loging and registration form created in html and php.
+CREATE A DATABASE IN XAMMP SERVER NAME ANY THING IE. PRO 
+CREATE  FNAME, LNAME , EMAIL AND PASSWORD.
